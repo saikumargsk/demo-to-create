@@ -1,4 +1,1 @@
-# demo-to-create
-x= 10
-y=20
-print(x+y)
+this is my first code
