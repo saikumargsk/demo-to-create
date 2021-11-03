@@ -1,2 +1,4 @@
 # demo-to-create
-my first demo
+x= 10
+y=20
+print(x+y)
